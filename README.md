@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foundation for Sites Template
 
 **Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
@@ -46,3 +47,7 @@ bower install
 ```
 
 Finally, run `npm start` to run the Sass compiler. It will re-run every time you save a Sass file.
+=======
+# lagoproj
+>>>>>>> eb867a9e746649ed743dbdcd0db4d3c4f9107813
+# lagoprojects
